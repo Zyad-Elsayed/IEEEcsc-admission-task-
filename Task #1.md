@@ -1,0 +1,1 @@
+It is all started by a connection between two or more computers "systems" to share files till it grown to share and access these files from anywhere and for anyone and this connection named by internet. these files that can be accessed from anywhere are stored in webservers displayed on website app and can be accessed through web search engine.
