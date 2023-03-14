@@ -1,8 +1,8 @@
 # What is web
 It is all started by a connection between two or more computers "systems" to share files till it grown to share and access these files from anywhere and for anyone and this connection named by internet. these files that can be accessed from anywhere are stored in webservers displayed on webpage and can be accessed through web search engine.
 
-**So web app consitis of two main parts**
-+ client side 
+## So web app consitis of two main parts
++ **client side**
 ```
 which refers to a method of accessing and using web-based resources, where the client is the end-user's device, such as a computer or mobile phone, 
 that interacts with the server to obtain or display web content.
@@ -12,7 +12,7 @@ The web server then retrieves the requested content and sends it back to the bro
 the browser to enhance the functionality and interactivity of the web application.. 
 This process is called a client-server model, which is a way of distributing the workload between two types of computers: clients and servers.
 ```
-+ server side
++ **server side**
 ```
 The server-side model in web architecture refers to a method of processing and generating web content on the server-side, before it is sent to the 
 client's device for display.
