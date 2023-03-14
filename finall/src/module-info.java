@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author zyade
- *
- */
-module finall {
-}
